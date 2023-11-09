@@ -2,19 +2,19 @@
 1- Make  a folder and open in vs code
 2- Open terminal and write these commands one by one 
 
-   .npm init -y
-   .npm install typescript
-   .tsc --init
-   .tsc -w
+   a-npm init -y,
+   b-npm install typescript,
+   c-tsc --init,
+   d-tsc -w,
      <!-- dependencies -->
-   .npm install inquirer
-   .npm install chalk chalk animations
-   .npm install ts-node
+   .npm install inquirer,
+   .npm install chalk chalk animations,
+   .npm install ts-node,
     <!--  devdependencies -->
-   .npm install @types/inquirer _D
-   .npm install @types/chalk -D
-   .npm install @types/chalk-animation -D
-   .npm install @types/node -D(it will add types of nodes and this will become a default node project)
+   .npm install @types/inquirer _D,
+   .npm install @types/chalk -D,
+   .npm install @types/chalk-animation -D,
+   .npm install @types/node -D(it will add types of nodes and this will become a default node project),
    
 3-  Changes needed in tsconfig.json
 
